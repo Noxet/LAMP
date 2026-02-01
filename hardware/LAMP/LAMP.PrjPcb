@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=No connectors
+CurrentVariant=9V
 
 [Preferences]
 PrefsVaultGUID=
@@ -86,14 +86,14 @@ DocumentUniqueId=JDYNEVBK
 
 [ProjectVariant1]
 UniqueId=4139c93a-8837-49d7-bba5-9334e9734df2
-Description=No connectors
+Description=9V
 AllowFabrication=0
 ParameterCount=0
 VariationCount=4
 Variation1=Designator=P1|UniqueId=\MBIXVNPM|Kind=1|AlternatePart=
-Variation2=Designator=P2|UniqueId=\KOQUMYIA|Kind=1|AlternatePart=
-Variation3=Designator=P3|UniqueId=\ROJNAGMU|Kind=1|AlternatePart=
-Variation4=Designator=P4|UniqueId=\AOJMOOQC|Kind=1|AlternatePart=
+Variation2=Designator=P4|UniqueId=\AOJMOOQC|Kind=1|AlternatePart=
+Variation3=Designator=P3|UniqueId=\GZXSIMST|Kind=1|AlternatePart=
+Variation4=Designator=P4|UniqueId=\BIJQBHSN|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -101,12 +101,12 @@ DocumentPath=Project Outputs for LAMP\Design Rule Check - LAMP.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Revision
-Value=1.0
-
-[Parameter2]
 Name=Title
 Value=LAMP
+
+[Parameter2]
+Name=Revision
+Value=0.1
 
 [Configuration1]
 Name=Sources
