@@ -84,6 +84,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDYNEVBK
 
+[Document3]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=4139c93a-8837-49d7-bba5-9334e9734df2
 Description=9V
@@ -100,13 +117,133 @@ ParamVariationCount=0
 DocumentPath=Project Outputs for LAMP\Design Rule Check - LAMP.html
 DItemRevisionGUID=
 
-[Parameter1]
-Name=Title
-Value=LAMP
+[GeneratedDocument2]
+DocumentPath=Manufacturing\NC Drill\LAMP-Plated.TXT
+DItemRevisionGUID=
 
-[Parameter2]
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\NC Drill\LAMP-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Manufacturing\NC Drill\LAMP-RectHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\NC Drill\LAMP-RectHoles-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Manufacturing\NC Drill\LAMP.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\NC Drill\LAMP.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Manufacturing\Gerber\LAMP.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\Gerber\LAMP.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Manufacturing\Gerber\LAMP.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Free Documents\Gerber\LAMP.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Manufacturing\Gerber\LAMP.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Free Documents\Gerber\LAMP.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Manufacturing\Gerber\LAMP.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Free Documents\Gerber\LAMP.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Manufacturing\Gerber\LAMP.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Free Documents\Gerber\LAMP.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Manufacturing\Gerber\LAMP.GM
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Free Documents\Gerber\LAMP.GM
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Manufacturing\Gerber\LAMP.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Free Documents\Gerber\LAMP.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Manufacturing\Gerber\LAMP.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Free Documents\Gerber\LAMP.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Manufacturing\Gerber\LAMP.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Free Documents\Gerber\LAMP.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Manufacturing\Gerber\LAMP.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Free Documents\Gerber\LAMP.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Manufacturing\NC Drill\LAMP.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Free Documents\NC Drill\LAMP.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Manufacturing\Gerber\LAMP.REP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Free Documents\Gerber\LAMP.REP
+DItemRevisionGUID=
+
+[Parameter1]
 Name=Revision
 Value=0.1
+
+[Parameter2]
+Name=Title
+Value=LAMP
 
 [Configuration1]
 Name=Sources
