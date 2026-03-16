@@ -106,11 +106,12 @@ UniqueId=4139c93a-8837-49d7-bba5-9334e9734df2
 Description=9V
 AllowFabrication=0
 ParameterCount=0
-VariationCount=4
+VariationCount=5
 Variation1=Designator=P1|UniqueId=\MBIXVNPM|Kind=1|AlternatePart=
 Variation2=Designator=P4|UniqueId=\AOJMOOQC|Kind=1|AlternatePart=
 Variation3=Designator=P3|UniqueId=\GZXSIMST|Kind=1|AlternatePart=
 Variation4=Designator=P4|UniqueId=\BIJQBHSN|Kind=1|AlternatePart=
+Variation5=Designator=P6|UniqueId=\NDIFMUOP|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -238,12 +239,12 @@ DocumentPath=Project Outputs for Free Documents\Gerber\LAMP.REP
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Revision
-Value=0.1
-
-[Parameter2]
 Name=Title
 Value=LAMP
+
+[Parameter2]
+Name=Revision
+Value=0.2
 
 [Configuration1]
 Name=Sources
@@ -736,36 +737,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=MathWorks
-OutputName15=MathWorks (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Orcad v7 Capture Design
-OutputName16=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD ASCII
-OutputName17=P-CAD ASCII (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=P-CAD V16 Schematic Design
-OutputName18=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
