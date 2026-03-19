@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [LAMP.PcbDoc]
+   Generated File[LAMP-Plated.TXT]
+   Generated File[LAMP-RectHoles-Plated.TXT]
+   Generated File[LAMP.LDP]
+   Generated File[LAMP.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 22:38:58 On 2026-03-16

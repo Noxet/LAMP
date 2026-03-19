@@ -238,13 +238,17 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Free Documents\Gerber\LAMP.REP
 DItemRevisionGUID=
 
-[Parameter1]
-Name=Title
-Value=LAMP
+[GeneratedDocument32]
+DocumentPath=Documentation\LAMP.step
+DItemRevisionGUID=
 
-[Parameter2]
+[Parameter1]
 Name=Revision
 Value=0.2
+
+[Parameter2]
+Name=Title
+Value=LAMP
 
 [Configuration1]
 Name=Sources

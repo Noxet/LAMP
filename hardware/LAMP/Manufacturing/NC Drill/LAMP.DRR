@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LAMP.PcbDoc   2026-03-16  22:38:58
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : LAMP-Plated.TXT
+ASCII Plated RectHoles File : LAMP-RectHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             2         PTH        0.61inch (15.37mm)
+T2      24mil (0.6mm)                                             Round             3         PTH        0.34inch (8.67mm)
+T3      32mil (0.8mm)                                             Round             6         PTH        1.53inch (38.97mm)
+T4      39mil (1mm)                                               Round             14        PTH        4.60inch (116.96mm)
+T5      43mil (1.1mm)                                             Round             6         PTH        1.54inch (39.00mm)
+T6      47mil (1.2mm)                                             Rectangle         4         PTH        3.59inch (91.20mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              35
+
+Total Processing Time (hh:mm:ss) : 00:00:00

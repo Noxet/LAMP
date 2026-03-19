@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\dev\Guitar Pedals\LAMP\hardware\LAMP\LAMP.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=lamp-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Rect_Holes|DrillFile=lamp-rectholes-plated.txt|DrillLayers=gtl,gbl
